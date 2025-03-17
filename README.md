@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @WardenOfMordor
-- 👀 I’m interested in LEARNING STUFF
+- 👋 Hi, I’m Beniamin
+
 - 🌱 I’m currently learning lots of stuff
 
 <!---
